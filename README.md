@@ -1,4 +1,4 @@
-# AI-Generated Content Detection with RoBERTa
+# AI-Generated Content Detection with RoBERTa on HC3 Dataset
 
 This repository contains the implementation of a project aimed at distinguishing between human-generated and AI-generated content using a fine-tuned RoBERTa-based binary classifier. The project leverages the HC3 (Human ChatGPT Comparison Corpus) dataset and provides insights into linguistic and stylistic differences between human and ChatGPT responses.
 
